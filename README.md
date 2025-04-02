@@ -10,7 +10,6 @@ which is licensed under the **GNU General Public License v3 (GPLv3)**.
 
 - Only **specific portions** of this project used WebGazer.js.
 - The use of WebGazer.js was **temporary**, limited to experimental phases.
-- **Current versions do not include** WebGazer.js or any GPL-licensed code.
 
 In compliance with the GPL, the source code of this project was made available during its distribution period.  
 For more information about the GNU GPL v3, see:  
